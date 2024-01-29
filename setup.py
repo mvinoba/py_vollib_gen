@@ -12,6 +12,7 @@ setup(
     url='',
     maintainer='',
     maintainer_email='',
+    long_description=open('README.rst').read(),
     license='MIT',
     install_requires=[
         'py_lets_be_rational',
