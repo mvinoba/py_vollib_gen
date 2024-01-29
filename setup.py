@@ -6,12 +6,12 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='py_vollib',
-    version='1.0.3',
+    name='py_vollib_gen',
+    version='1.0.0',
     description='',
-    url='http://vollib.org',
-    maintainer='vollib',
-    maintainer_email='vollib@gammoncap.com',
+    url='',
+    maintainer='',
+    maintainer_email='',
     license='MIT',
     install_requires=[
         'py_lets_be_rational',
