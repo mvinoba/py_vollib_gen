@@ -15,7 +15,7 @@ setup(
     long_description=open('README.rst').read(),
     license='MIT',
     install_requires=[
-        'py_lets_be_rational',
+        'py_lets_be_rational_gen',
         'simplejson',
         'numpy',
         'pandas',
